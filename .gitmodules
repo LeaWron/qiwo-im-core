@@ -1,0 +1,8 @@
+[submodule "qiwo-sync-core"]
+	path = qiwo-sync-core
+	url = https://github.com/LeaWron/qiwo-sync-core.git
+	branch = main
+[submodule "qiwo-input-format-core"]
+	path = qiwo-input-format-core
+	url = https://github.com/LeaWron/qiwo-input-format-core.git
+	branch = main
