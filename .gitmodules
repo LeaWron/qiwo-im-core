@@ -6,3 +6,7 @@
 	path = qiwo-input-format-core
 	url = https://github.com/LeaWron/qiwo-input-format-core.git
 	branch = main
+[submodule "qiwo-android-rime-core"]
+	path = qiwo-android-rime-core
+	url = https://github.com/LeaWron/qiwo-android-rime-core.git
+	branch = main
